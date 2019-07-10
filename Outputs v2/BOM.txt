@@ -1,0 +1,26 @@
+Cantidad	Componente	Empaquetado	Valor		Observación
+-----------------------------------------------------------------------------
+7		CAPACITOR	1206		100nF
+2		CAPACITOR	1206		22pF
+1		CAPACITOR	1206		330nF
+1		CAPACITOR	1206		10nF
+2		CAPACITOR	1206		470nF
+8		RESISTOR	1206		10kR
+4		RESISTOR	1206		1kR
+8		RESISTOR	1206		100R
+8		RESISTOR	1206		56kR
+4		RESISTOR	1206		47kR
+4		2N2007		SOT-23				N-MOSFET
+1		LP2985		SOT-23-5	3.3V		Regulador 3.3V
+1		CRISTAL		HC-49/S		12MHz
+1		7805		TO-220				Regulador 5V | Solo va a hacer falta cuando usemos el EDF | Hay en ORT
+1		LED		3mm		ROJO		Hay en ORT
+3		LED		3mm		AMARILLO	Hay en ORT
+1		CAPACITOR	ELECTROLÍTICO	1uF		Hay en ORT
+1		CAPACITOR	ELECTROLÍTICO	2.2uF		Hay en ORT
+Muchos		Pines macho					Hay en ORT
+2		ZXMHC3F381N8	SOIC-8				Puente H | Comprado en Arrow
+2		MIC4427		SOIC-8				Driver de puente H | Comprado en Arrow
+1		ATmega328PB	TQFP-32				Microcontrolador | Comprado en Arrow
+1		XL6009		Módulo				Elevador de tensión | Ya tenemos
+8		QRE1113GR	SMD-4				Sensor de línea | Ya tenemos | Hay en ORT
